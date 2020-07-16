@@ -1,4 +1,5 @@
 import React from  'react';
+import '../search-component/search-style.css'
 
 export const Search =({placeholder, handleChanage})=>(
     
